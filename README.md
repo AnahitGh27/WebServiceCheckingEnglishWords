@@ -1,0 +1,1 @@
+Web service that searches/checkes english words
